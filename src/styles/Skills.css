@@ -1,0 +1,10 @@
+.skillsMap .Image {
+    width: 10%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+}
+
+.skillsMap .SmallImg {
+        aspect-ratio: 3/2;
+        object-fit: contain;
+}
