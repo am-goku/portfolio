@@ -12,7 +12,7 @@ export default function Home() {
       <div className="flex flex-col gap-32">
         <main className="flex flex-col md:flex-row lg:gap-10 gap-20 px-6 justify-center">
           {/* Profile Area */}
-          <div className="md:h-[70vh] lg:w-1/4 flex flex-col items-center p-1 pt-3 px-8 lg:px-20 gap-5 custom-box">
+          <div className="h-fit lg:w-1/4 flex flex-col items-center p-1 pt-3 px-8 lg:px-20 gap-5 custom-box">
             <ProfileCard />
           </div>
 

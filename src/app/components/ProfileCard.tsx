@@ -18,11 +18,11 @@ const ProfileCard = () => {
       </div>
 
       {/* profile pic section  */}
-      <div className="w-full flex justify-center items-center border-2 rounded-lg bg-white">
+      <div className="w-full flex justify-center items-center rounded-lg bg-">
         <Image
           src={profileImage}
           alt="Profile Image"
-          className="rounded-lg w-full"
+          className="rounded-lg w-full bulgeBox2"
           draggable={false}
         />
       </div>
