@@ -2,7 +2,11 @@
 
 const nextConfig = {
   images: {
-    domains: ["updates.theme-fusion.com"],
+    domains: [
+      "updates.theme-fusion.com",
+      "placekitten.com",
+      "images.unsplash.com",
+    ],
   },
   env: {
     RESEND_API: process.env.RESEND_API,
