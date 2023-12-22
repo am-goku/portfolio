@@ -71,7 +71,7 @@ const Projects = () => {
         <div className="w-full md:w-fit p-5 px-10 flex justify-center items-center no-scrollbar">
           {thumbsFragment}
         </div>
-        <div className="flex gap-16">
+        <div className="flex md:hidden gap-16">
           <div
             onClick={() => {
               slideToPrevItem();
