@@ -80,7 +80,7 @@ const Projects = () => {
                 isSelected === 0 ? projects.length - 1 : isSelected - 1
               );
             }}
-            className="btnRound p-2 rounded-full"
+            className="btnRound p-2 rounded-full cursor-pointer"
           >
             Prev
           </div>
@@ -92,7 +92,7 @@ const Projects = () => {
                 isSelected === projects.length - 1 ? 0 : isSelected + 1
               );
             }}
-            className="btnRound p-2 rounded-full"
+            className="btnRound p-2 rounded-full cursor-pointer"
           >
             Next
           </div>
