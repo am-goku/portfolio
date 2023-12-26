@@ -48,7 +48,7 @@ const ProfileCard = () => {
           <FontAwesomeIcon icon={faLinkedin} className="w-8" />{" "}
         </Link>
         <Link
-          href={"http://instagram.com/am_._spector"}
+          href={"http://instagram.com/am_._goku"}
           target="_blank"
           draggable={false}
         >
