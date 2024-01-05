@@ -4,7 +4,7 @@ import React from 'react'
 import "@/styles/CvBtn.css"
 import { downloadPdf } from '@/service/fileSaver';
 
-import pdf from "@/assets/files/Resume.pdf"
+import pdf from "@/assets/files/Gokul Krishna G H.pdf"
 
 const CvButton = () => {
 
